@@ -1,1 +1,2 @@
-
+mouse_scratch_detection.py----训练模型代码（2D-CNN）
+testmouse1.py----测试模型代码
